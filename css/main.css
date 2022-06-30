@@ -1,0 +1,10 @@
+.login{
+    width: 800px;
+    height: 400px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    color: white;
+}
+.login .form-label{
+    color: white!important;
+}
